@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29318.209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "recogTest", "recogTest\recogTest.csproj", "{1E501073-36E4-419D-A222-C92D04C6D24E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E501073-36E4-419D-A222-C92D04C6D24E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E501073-36E4-419D-A222-C92D04C6D24E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E501073-36E4-419D-A222-C92D04C6D24E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E501073-36E4-419D-A222-C92D04C6D24E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6221C5C1-0333-4E0A-9BDA-193ED805661B}
+	EndGlobalSection
+EndGlobal
